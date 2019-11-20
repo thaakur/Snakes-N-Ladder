@@ -1,0 +1,11 @@
+The goal of Snakes and Ladders is to reach square 100 first.
+Your game piece will compete with the computer's game piece and
+move from square 1 to 100 following the labeled squares on the game board.
+
+If you land on a square with a snake's head, 
+your game piece will be repositioned to the square with that snake's tail.
+
+If you land on a square at the base of a ladder, 
+your game piece will be repositioned to the square at the top of the ladder.
+
+Good luck, and have fun!!!!!
